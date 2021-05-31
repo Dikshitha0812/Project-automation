@@ -10,7 +10,7 @@ notification.notify(
     title=title,
     message=message,
     app_icon=None,
-    timeout=20,
+    timeout=3,
     toast=False
 )
-time.sleep(3)
+time.sleep(1800)
